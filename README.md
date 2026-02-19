@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi There, I'm Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**Alexiseresh/alexiseresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+about+Software+Development,;Web+Development+Enthusiast,;Always+Learning+and+Improving,;Excited+about+Future+Tech+Opportunities..&hearts;">
+</div>
 
-Here are some ideas to get you started:
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies and Tools That I Know 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,git,github,tailwind,vite,vitest,react,electron,supabase&perline=14" />
+  </a>
+</p>
+
+<br>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> ***GitHub Analytics...***
+<p align="center">
+<a href="https://github.com/LittleEugeo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=littleeugeo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=littleeugeo&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
+<br>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ***About me***
+<p align="left">
+  I am a final year Systems Engineering student, passionate about software development and technology. My areas of interest especially include web development. 💻 <b>VS Code, HTML, CSS, JS, TS, Git, GitHub, Tailwind, Vite, Vitest, React, Electron, and Supabase</b> are the tools and technologies I am good at.
+</p>
+
+<p align="left">
+  I have worked on several academic and personal projects that have allowed me to develop my skills and knowledge in this field. I am always looking to learn and improve, and I am excited about future opportunities in the world of technology.
+</p>
+
+* 🚀 **I am focused on Web designing, Desktop applications, and Database architecture.**
+
+- 🤝 I’m eager to join forces on innovative open-source repositories.
+- 💬 Feel free to reach out for a chat about dev stuff; I’m always down to share what I know! ✌️
+- Beyond the screen, I'm passionate about music 🎧: from Indie Rock to Hardcore Metal and Hip Hop.
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> ***Long-Term Goals...***
+- 🚀 **Full Stack Ninja:** I want to become a full stack developer who masters both front-end and back-end with ninja skills, creating complex and amazing applications.
+- 🤝 **Pack Leader:** I aspire to be an inspiring technical leader, mentoring other developers and continuing my own journey of learning and growth in the coding world.
