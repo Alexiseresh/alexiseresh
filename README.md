@@ -22,9 +22,9 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> ***GitHub Analytics...***
 <p align="center">
-<a href="https://github.com/LittleEugeo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=littleeugeo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=littleeugeo&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Alexiseresh">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexiseresh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexiseresh&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
 <br>
