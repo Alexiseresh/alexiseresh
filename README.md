@@ -39,7 +39,6 @@
 </p>
 
 * 🚀 **I am focused on Web designing, Desktop applications, and Database architecture.**
-
 - 🤝 I’m eager to join forces on innovative open-source repositories.
 - 💬 Feel free to reach out for a chat about dev stuff; I’m always down to share what I know! ✌️
 - Beyond the screen, I'm passionate about music 🎧: from Indie Rock to Hardcore Metal and Hip Hop.
@@ -47,3 +46,10 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> ***Long-Term Goals...***
 - 🚀 **Full Stack Ninja:** I want to become a full stack developer who masters both front-end and back-end with ninja skills, creating complex and amazing applications.
 - 🤝 **Pack Leader:** I aspire to be an inspiring technical leader, mentoring other developers and continuing my own journey of learning and growth in the coding world.
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **A little more about me...**
+* 🌍 **Language Journey:** I currently have an Intermediate level of English (B1/B2).
+* 📚 **Continuous Learning:** I continue to actively attend my English course to improve my fluency and technical grammar.. 🚀
+* 🎯 **Total Immersion:** I try to expose myself to the language as much as possible in my daily life.
+* 🗣️ **Goal:** My goal is to reach an advanced level to collaborate on international projects and read technical documentation without barriers.
+* 💻 **English-First Projects:** As part of my training, I develop all my projects **100% in English**, from the code and comments to the documentation and commit messages. 🇺🇸
