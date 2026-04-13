@@ -31,7 +31,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ***About me***
 <p align="left">
-  I am a final year Systems Engineering student, passionate about software development and technology. My areas of interest especially include web development. 💻 <b>VS Code, HTML, CSS, JS, TS, Git, GitHub, Tailwind, Vite, Vitest, React, Electron, and Supabase</b> are the tools and technologies I am good at.
+  I am a final year Systems Engineering student, passionate about software development and technology. My areas of interest especially include web development. 💻 <b>VS Code, HTML, CSS, JS, TS, Git, GitHub, Tailwind, Vite, PostgreSQL, Express, React, Nodejs, and Nextjs</b> are the tools and technologies I am good at.
 </p>
 
 <p align="left">
